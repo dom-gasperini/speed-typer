@@ -1,0 +1,17 @@
+windows:
+..\..\bin\binarycreator.exe -c config\config.xml -p packages YourInstaller.exe
+
+linux & mac-os:
+../../bin/binarycreator -c config/config.xml -p packages YourInstaller
+
+
+
+for windows
+/home/dom_gasperini/Qt/Tools/QtInstallerFramework/4.4/bin/binarycreator -c config/config.xml -p packages SpeedTyper-Installer.exe
+
+
+for linux
+/home/dom_gasperini/Qt/Tools/QtInstallerFramework/4.4/bin/binarycreator -c config/config.xml -p packages SpeedTyper-Installer
+
+for windows
+/home/dom_gasperini/Qt/Tools/QtInstallerFramework/4.4/bin/binarycreator -c config/config.xml -p packages SpeedTyper-Installer.exe
